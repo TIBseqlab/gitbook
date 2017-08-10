@@ -23,6 +23,8 @@ The best way to install GitBook is via **NPM**. At the terminal prompt, simply r
 
 ```
 $ npm install gitbook-cli -g
+$sudo npm install -g gitbook-cli@2.3.0
+
 ```
 
 `gitbook-cli` is an utility to install and use multiple versions of GitBook on the same system. It will automatically install the required version of GitBook to build a book.
